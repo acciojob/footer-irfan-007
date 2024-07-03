@@ -1,1 +1,27 @@
 /* your code here */
+.top{
+    display:flex;
+    justify-content: space-between;
+    padding: 0rem;;
+}
+.link-boxes{
+    display: flex;
+    gap: 4rem;
+}
+footer{
+    background-color: black;
+    color: white;
+    padding: 1.5rem;
+}
+.box{
+    display: flex;
+    flex-direction: column;
+    gap: 0.6rem;
+}
+h2{
+    border-bottom: 1px solid;
+}
+a{
+    color: white;
+    text-decoration: none;
+}

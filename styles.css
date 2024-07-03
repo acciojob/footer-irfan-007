@@ -7,6 +7,7 @@
 .link-boxes{
     display: flex;
     gap: 4rem;
+	flex-wrap:wrap;
 }
 footer{
     background-color: black;
@@ -24,4 +25,7 @@ h2{
 a{
     color: white;
     text-decoration: none;
+}
+.media-icons{
+	display:flex;
 }
